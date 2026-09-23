@@ -1,4 +1,4 @@
-## About Me:
+# About Me
 
 ### Education: BSc Mental Health Nursing (University of East Anglia)
 ### Profession: Senior Community Mental Health Nurse
